@@ -1,0 +1,36 @@
+User-Agent: *
+Disallow:
+Allow: /
+Allow: /about-us
+Allow: /prana-electric-bike
+Allow: /showrooms
+Allow: /book-a-test-drive
+Allow: /contact-us
+Allow: /news
+Allow: /news/srivaru-svmh-deploys-advanced-ai-platform-to-manage-leads
+Allow: /news/best-electric-motorcycle-manufacturers
+Allow: /news/proactiveinvestors
+Allow: /news/emc-emi-testing-for-prana
+Allow: /news/completes-production-model-of-prana
+Allow: /news/prana-battery-test
+Allow: /news/prana-road-performance-testing
+Allow: /news/ev-motorcycle-manufacturing
+Allow: /news/nasdaq-non-compliance-Notices
+Allow: /news/minimum-bid-price-deficiency
+Allow: /news/expansion-of-manufacturing-facility
+Allow: /news/premium-e-motorbikes
+Allow: /blog/prana-first-ride-review
+Allow: /blog/India-fastest-electric-bike-prana-video-review
+Allow: /blog/prana-first-electric-sports-bike-launched-in-india
+Allow: /careers
+Allow: /faq
+Allow: /become-dealer
+Allow: /total-cost-of-ownership
+Allow: /terms-condition
+Allow: /policy
+Allow: /cookie-policies
+Allow: /refund-policy
+Allow: /book-now
+Allow: /blogs
+
+Sitemap: https://srivarumotors.com/sitemap.xml

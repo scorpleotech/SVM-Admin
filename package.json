@@ -1,0 +1,53 @@
+{
+  "name": "SVM-CMS-admin",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next -- --port 8000",
+    "build": "next build",
+    "start": "next start -p 8000",
+    "eslint": " eslint pages/**/**/**/*.js --fix && eslint app/**/**/**/*.js --fix && eslint redux/**/**/**/*.js --fix && eslint util/**/**/**/*.js --fix",
+    "prettier": "prettier --write ."
+  },
+  "dependencies": {
+    "@ant-design/icons": "^4.6.4",
+    "@ckeditor/ckeditor5-build-classic": "^31.1.0",
+    "@ckeditor/ckeditor5-core": "^31.1.0",
+    "@ckeditor/ckeditor5-react": "^3.0.3",
+    "@ckeditor/ckeditor5-upload": "^31.1.0",
+    "@next/bundle-analyzer": "^14.1.0",
+    "antd": "^4.16.13",
+    "antd-img-crop": "^3.14.3",
+    "autoprefixer": "^10.4.1",
+    "axios": "^1.6.5",
+    "braft-editor": "^2.3.9",
+    "eslint-config-next": "^13.5.6",
+    "js-cookie": "^2.2.1",
+    "moment": "^2.26.0",
+    "next": "^13.5.6",
+    "next-redux-wrapper": "4.0.1",
+    "react": "^18.2.0",
+    "react-color": "^2.19.3",
+    "react-dom": "^18.2.0",
+    "react-icons": "^5.0.1",
+    "react-image-crop": "^11.0.5",
+    "react-intl": "^5.8.1",
+    "react-qr-code": "^2.0.12",
+    "react-quill": "^2.0.0",
+    "react-redux": "^7.2.0",
+    "redux": "^4.0.5",
+    "redux-devtools-extension": "^2.13.9",
+    "redux-thunk": "^2.4.1",
+    "sass": "^1.35.2",
+    "tailwindcss": "^2.2.19",
+    "url-loader": "^4.1.0",
+    "video-react": "^0.16.0"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "@types/video-react": "^0.15.5",
+    "eslint": "^8.56.0",
+    "eslint-plugin-react": "^7.28.0",
+    "eslint-plugin-unused-imports": "^2.0.0",
+    "prettier": "^2.5.1"
+  }
+}
