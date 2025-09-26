@@ -5,6 +5,7 @@
     "dev": "next -- --port 8000",
     "build": "next build",
     "start": "next start -p 8000",
+    "export": "next export",
     "eslint": " eslint pages/**/**/**/*.js --fix && eslint app/**/**/**/*.js --fix && eslint redux/**/**/**/*.js --fix && eslint util/**/**/**/*.js --fix",
     "prettier": "prettier --write ."
   },
